@@ -34,6 +34,7 @@ Feedback Loops is available in paperback format on [Amazon] (https://www.amazon.
 | ----------- | ------------------------------------------------------------ | ------------------------------------------- |
 | kubehunter  | Hunt for security weaknesses in Kubernetes clusters          | https://github.com/aquasecurity/kube-hunter |
 | kubeaudit   | kubeaudit helps you audit your Kubernetes clusters against common security controls | https://github.com/Shopify/kubeaudit        |
+| kamus       | Kamus let you encrypt secrets that only your application can decrypt.  | https://kamus.soluto.io       |
 
 ### Note
 
